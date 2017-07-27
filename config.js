@@ -13,12 +13,12 @@ module.exports = {
 	// Admin app settings
 	admin_app: {
 		desc: "cumbot admin commands",
-		prefix: "arma-admin"
+		prefix: "-arma-admin"
 	},
 
 	// The master channel
 	// The bot will announce the events to this channel. It won't listen to other channels.
-	master_channel: "339579619252633600",
+	master_channel: "291057516534693899",
 
 	// Events are considered "happening" for a margin of time, where users can see that the event
 	// is happening right now. During that time, the event is not considered expired yet.+
